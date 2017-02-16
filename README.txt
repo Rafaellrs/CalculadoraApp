@@ -1,0 +1,1 @@
+Bom, foi feito uma calculadora símples mesmo, com suas funções tradicionais que são: somar, subtrair, dividir e multiplicar, então baixe-o e o utilize em seu dispositivo ou em algum emulador como o do próprio Android Studio ou o Genymotion. Informo que ele está em modo paisagem também.
